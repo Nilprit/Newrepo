@@ -4,7 +4,7 @@ public class Codeforconf {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Out1log");
+		System.out.println("Out1logqq");
 		
 	}
 
